@@ -33,12 +33,12 @@
     
     display: flex;
     flex-direction: column;
-
 }
 
 .input-field {
     width: 16.4vw;
     height: 5vh;
+    font-size: 20px;
 }
 
 #container {
@@ -52,7 +52,7 @@ a.prev-btn {
     text-decoration: none;
     border-radius: 20px;
     margin-left: 5vh;
-    margin-bottom: 5vh;
+    margin-top: 5vh;
 
 }
 
